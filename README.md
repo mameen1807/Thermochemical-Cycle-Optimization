@@ -1,5 +1,10 @@
-# Thermochemical-Cycle-Optimization
-Optimization of thermochemical reaction cycles to maximize energy storage efficiency and output temperature for high-temperature applications.  
+
+---
+
+## ** Thermochemical Cycle Optimization**  
+
+**Repository Name:** `thermochemical-cycle-optimization`  
+**Description:** Optimization of thermochemical reaction cycles to maximize energy storage efficiency and output temperature for high-temperature applications.  
 
 **README.md:**
 
@@ -18,3 +23,4 @@ This project focuses on optimizing thermochemical reaction cycles to achieve hig
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/thermochemical-cycle-optimization.git
+
