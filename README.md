@@ -8,6 +8,9 @@ This project focuses on optimizing thermochemical reaction cycles for high-tempe
 - Calculates energy density and system efficiency
 - Provides visual analysis with graphs
 
+## 📷 Example Output
+![Pressure Graph](graph.png)
+
 ## How to Run
 1. Clone the repository:
    ```bash
