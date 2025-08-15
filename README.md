@@ -1,23 +1,12 @@
-
----
-
-## ** Thermochemical Cycle Optimization**  
-
-**Repository Name:** `thermochemical-cycle-optimization`  
-**Description:** Optimization of thermochemical reaction cycles to maximize energy storage efficiency and output temperature for high-temperature applications.  
-
-**README.md:**
-
-```markdown
 # Thermochemical Cycle Optimization
 
-This project focuses on optimizing thermochemical reaction cycles to achieve high efficiency in energy storage systems. 
+This project focuses on optimizing thermochemical reaction cycles for high-temperature heat storage systems. The simulation calculates the effect of varying cycle parameters on energy density and system efficiency.
 
 ## Features
 - Models thermochemical reaction cycles
 - Optimizes input parameters for maximum energy output
 - Calculates energy density and system efficiency
-- Provides visual analysis of optimized cycles
+- Provides visual analysis with graphs
 
 ## How to Run
 1. Clone the repository:
