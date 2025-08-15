@@ -24,3 +24,9 @@ This approach helps in designing **thermochemical systems with improved round-tr
 - **Temperature vs time plots** highlighting optimal operating windows.  
 - Guidelines for **selecting cycle parameters** for industrial thermochemical storage systems.
 
+## 📷 Example Output
+![Pressure Graph](graph.png)
+
+## 🚀 How to Run
+```bash
+python thermochemical_cycle_optimization.py
